@@ -1,6 +1,6 @@
 # AVLTree
 
-Contributors @ellaprogrammer and Jonathan Retterer
+Contributors @ellaprogrammer, Jonathan Retterer, and Rob Gysel
 
 Practice with JSON files and AVL Trees
 
